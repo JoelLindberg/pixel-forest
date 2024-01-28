@@ -1,3 +1,5 @@
 # pixel-forest
 
-Personal tech home page
+Joel's tech space 💻 in the cloud ☁
+
+Published site: https://joellindberg.github.io/pixel-forest/
