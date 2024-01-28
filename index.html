@@ -30,9 +30,9 @@
         </div>
         <div class="menu-container">
             <div class="menu-flex-items">
-                <a href="/projects.html">[Projects]</a>
-                <a href="/forge.html">[Pixel Forge]</a>
-                <a href="/about.html">[About]</a>
+                <a href="/pixel-forest/projects.html">[Projects]</a>
+                <a href="/pixel-forest/pixel-forge.html">[Pixel Forge]</a>
+                <a href="/pixel-forest/about.html">[About]</a>
             </div>
         </div>
     </header>
@@ -44,16 +44,40 @@
             -->
             <div class="project">
                 <h3>🌳 Chloropixels</h3>
-                <p>- 2024-01-27 -</p>
-                <p>[ Github project ]</p>
+                <p class="project-date">- 2024-01-27 -</p>
+                <p class="project-tag">[Github project]</p>
                 <p>Chloropixels is the natural compound present in green pixel plants that gives them their color. It helps the plants to absorb energy from the power supply as they undergo the process of pixelsynthesis. This nutrient is present in green pixelated vegetables and other pixel-based foods, like square algae.</p>
             </div>
             <hr>
+
             <div class="project">
                 <h3>⚒ Pixel Forge</h3>
-                <p>- 2023-01-27 -</p>
-                <p>[ Github project ]</p>
+                <p class="project-date">- 2023-01-27 -</p>
+                <p class="project-tag"><a href="https://www.github.com/JoelLindberg/pixel-forge">[Github project]</a> [Pixel Forge]</p>
                 <p>A seed to grow into a pixel editor.</p>
+                <pre><code class="language-js">waterFunction() {
+    console.log("water the seed")
+};</code></pre>
+            </div>
+            <hr>
+
+            <div class="project">
+                <h3>🖥 HTTP Server Lab</h3>
+                <p class="project-date">- 2023-01-22 -</p>
+                <p class="project-tag"><a href="https://github.com/JoelLindberg/httpserver-lab">[Github project]</a></p>
+                <p>Experiment to learn more about the transport (tcp) and application protocols (http) as it's so widely used today (and growing). I decided to approach this with a reverse engineering mindset while also looking at any protocol documentation that can be found. Using tools such as netcat/telnet, network trace (tcpdump/wireshark) and my own custom tcp client to create dummy requests during the development.</p>
+            </div>
+            <hr>
+
+            <div class="project">
+                <h3>🚚 REST API Lab</h3>
+                <p class="project-date">- 2024-01-27 -</p>
+                <p class="project-tag"><a href="https://github.com/JoelLindberg/data-transfer-api-lab">[Github project]</a> [Dotnet]</p>
+                <p>Sending and fetching JSON data (base64 encoded) with transfer audit logging.
+
+                    It expects to receive base64 encoded data in a JSON payload.
+                    It will decode any base64 data received and store it in a database.
+                    On request it will return base64 encoded data in a JSON payload.</p>
             </div>
             <hr>
             <!--
@@ -91,7 +115,7 @@
     <!--
     footer scripts start
     -->
-
+    <script>hljs.highlightAll();</script>
     <!--
     footer scripts end
     -->

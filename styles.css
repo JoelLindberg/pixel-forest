@@ -6,7 +6,6 @@
     --title-font: 'Press Start 2P', cursive;
     --paragraph-font: "VT323", monospace;
 
-    --text-font: Helvetica, sans-serif;
     --text-dark: #333;
     --text-mid: #888;
     --text-light: #eee;
@@ -168,6 +167,23 @@ main {
     width: var(--pixel-width);
     padding-top: 50px;
     padding-bottom: 50px;
+}
+.project h3 {
+    margin-bottom: 5px;
+}
+.project-date {
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.project-tag {
+    margin-top: 0px;
+}
+.project a {
+    color: var(--header-link-text);
+    text-decoration: none;
+}
+.project a:hover {
+    color: var(--header-link-hover);
 }
 
 
@@ -331,14 +347,14 @@ hr {
 
 
 /* Code blocks syntax highlighting */
-
 code {
-    background-color: #d4d4d4;
-    border-radius: 3px;
+    background-color: var(--background);
 }
 
 .hljs {
-    border-radius: 10px;
+    font-family: var(--paragraph-font);
+    font-size: 18px;
+    border-radius: 3px;
 }
 
 
