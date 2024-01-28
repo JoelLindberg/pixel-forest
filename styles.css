@@ -14,9 +14,9 @@
     --link-light: #eee;
     --link-hover: #fff;
 
-    --primary: #02f5d4;
-    --secondary: #a86436;
-    --tertiary: #13d413;
+    --primary-color: #eee;
+    --secondary-color: #35251b;
+    --tertiary-color: #339b33;
     --background: #eee;
     
     --header-text: #eee;
@@ -262,7 +262,9 @@ code {
 }
 
 hr {
-    border: 1px solid #1f291e;
+    border: 0px;
+    border-bottom: 2px dashed var(--primary-color);
+    margin-bottom: 40px;
 }
 
 .link-light {
