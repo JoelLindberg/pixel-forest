@@ -23,7 +23,7 @@
     --header-text: #eee;
     --header-link-text: #7a68e0;
     --header-link-hover: #eee;
-    --header-title-size: 40px;
+    --header-title-size: 38px;
     --header-font-large: 12px;
     --header-font-small: 8px;
     
@@ -125,7 +125,7 @@ header {
 }
 #cursor {
     content: "";
-    margin-top: 27px;
+    margin-top: 24px;
     margin-bottom: 0px;
     padding-bottom: 0px;
     margin-left: 2px;
