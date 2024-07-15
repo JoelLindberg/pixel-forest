@@ -20,6 +20,7 @@
     
     --title-gradient-intense: -webkit-linear-gradient(#c4fcff, #83b3fc,#250e8b);
     --title-gradient-arcane: -webkit-linear-gradient(#ff7300, #f7f3cb,  #2e0300);
+    --title-gradient-suki: -webkit-linear-gradient(#fffbf8, #fffdfd,  #d85757);
     --header-text: #eee;
     --header-link-text: #7a68e0;
     --header-link-hover: #eee;
@@ -107,6 +108,18 @@ header {
     -moz-background-clip: text;
     -moz-text-fill-color: transparent;
     background-color: var(--header-text);
+}
+
+.suki {
+     /*background: -webkit-linear-gradient(#daf9fa, #979ac0, #220136);*/
+     background: var(--title-gradient-suki);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     background-size: 100%;
+     /*fallback*/
+     -moz-background-clip: text;
+     -moz-text-fill-color: transparent;
+     background-color: var(--header-text);
 }
 
 /* Header cursor animation */
