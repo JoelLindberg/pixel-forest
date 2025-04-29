@@ -1,16 +1,8 @@
-# arcane scroll
-
-Joel's tech space in the cloud ☁
+# Joel's space in the cloud ☁
 
 Published site: https://joellindberg.github.io/pixel-forest/
 
-The idea is to keep my learnings that I wish to highlight in a single page. Top to bottom, like an ancient scroll. I found a *scrolls* to be a suitable concept for my page and fitting in the name since scrolling is what you inherently need to do on a top-to-bottom only page.
-
-**Constraint**: No use of images. Only fonts, unicode icons and code generated graphics.
-
-I added this constraint to keep it simple and easy to go back and update this page, because otherwise I fear I will not.
-
-I decided to rely heavily on unicode icons. To avoid having to spend too much time searching I want to build a reference library for the icons I am using and think I will be needing in the future:
+A personal reference list for some of the unicode characters I like:
 
 ☄️ Comet
 🌠 U+1F320 Shooting Star
@@ -54,3 +46,4 @@ I decided to rely heavily on unicode icons. To avoid having to spend too much ti
 🖌️ Paintbrush
 🖍️ Crayon
 ⚗️ Alembic
+☕ U+2615 Hot beverage
