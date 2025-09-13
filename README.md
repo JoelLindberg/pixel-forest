@@ -12,7 +12,7 @@ A personal reference list for some of the unicode characters I like:
 💎 U+1F48E Gem Stone \
 🔮 U+1F52E Crystal Ball \
 😈 U+1F47F Imp \
-🧙 U+1F9D9 Mage \
+🧙 U+1F9D9 Mage
 
 🌰 U+1F330 Chestnut \
 🍂 U+1F342 Fallen Leaf \
@@ -23,10 +23,10 @@ A personal reference list for some of the unicode characters I like:
 🌱 U+1F331 Seedling \
 🍄 U+1F344 Mushroom \
 💧 U+1F4A7 Droplet \
-🔥 U+1F525 Fire \
+🔥 U+1F525 Fire
 
 🐢 Turtle \
-🐍 U+1F40D Snake \
+🐍 U+1F40D Snake
 
 📜 U+1F4DC Scroll \
 📖 U+1F4D6 Open Book \
@@ -36,7 +36,7 @@ A personal reference list for some of the unicode characters I like:
 📕 U+1F4D5 Closed Book \
 📙 U+1F4D9 Orange Book \
 📘 U+1F4D8 Blue Book \
-📗 U+1F4D7 Green Book \
+📗 U+1F4D7 Green Book
 
 🔎 U+1F50E Right-Pointing Magnifying Glass \
 🔍 U+1F50D Left-Pointing Magnifying Glass \
@@ -46,4 +46,4 @@ A personal reference list for some of the unicode characters I like:
 🖌️ Paintbrush \
 🖍️ Crayon \
 ⚗️ Alembic \
-☕ U+2615 Hot beverage \
+☕ U+2615 Hot beverage
