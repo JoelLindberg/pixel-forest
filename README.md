@@ -4,6 +4,9 @@ Published site: https://joellindberg.github.io/pixel-forest/
 
 A personal reference list for some of the unicode characters I like:
 
+🥰 \
+🐕
+
 ☄️ Comet \
 🌠 U+1F320 Shooting Star \
 🌟 U+1F31F Glowing Star \
@@ -47,3 +50,4 @@ A personal reference list for some of the unicode characters I like:
 🖍️ Crayon \
 ⚗️ Alembic \
 ☕ U+2615 Hot beverage
+
