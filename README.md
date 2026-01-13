@@ -49,5 +49,5 @@ A personal reference list for some of the unicode characters I like:
 🖌️ Paintbrush \
 🖍️ Crayon \
 ⚗️ Alembic \
-☕ U+2615 Hot beverage
-
+☕ U+2615 Hot beverage \
+🕯️ Candle
